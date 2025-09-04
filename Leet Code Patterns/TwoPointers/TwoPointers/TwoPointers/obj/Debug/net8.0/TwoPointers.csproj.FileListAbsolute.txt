@@ -1,0 +1,14 @@
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\TwoPointers\TwoPointers\TwoPointers\bin\Debug\net8.0\TwoPointers.exe
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\TwoPointers\TwoPointers\TwoPointers\bin\Debug\net8.0\TwoPointers.deps.json
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\TwoPointers\TwoPointers\TwoPointers\bin\Debug\net8.0\TwoPointers.runtimeconfig.json
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\TwoPointers\TwoPointers\TwoPointers\bin\Debug\net8.0\TwoPointers.dll
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\TwoPointers\TwoPointers\TwoPointers\bin\Debug\net8.0\TwoPointers.pdb
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\TwoPointers\TwoPointers\TwoPointers\obj\Debug\net8.0\TwoPointers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\TwoPointers\TwoPointers\TwoPointers\obj\Debug\net8.0\TwoPointers.AssemblyInfoInputs.cache
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\TwoPointers\TwoPointers\TwoPointers\obj\Debug\net8.0\TwoPointers.AssemblyInfo.cs
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\TwoPointers\TwoPointers\TwoPointers\obj\Debug\net8.0\TwoPointers.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\TwoPointers\TwoPointers\TwoPointers\obj\Debug\net8.0\TwoPointers.dll
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\TwoPointers\TwoPointers\TwoPointers\obj\Debug\net8.0\refint\TwoPointers.dll
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\TwoPointers\TwoPointers\TwoPointers\obj\Debug\net8.0\TwoPointers.pdb
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\TwoPointers\TwoPointers\TwoPointers\obj\Debug\net8.0\TwoPointers.genruntimeconfig.cache
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\TwoPointers\TwoPointers\TwoPointers\obj\Debug\net8.0\ref\TwoPointers.dll
