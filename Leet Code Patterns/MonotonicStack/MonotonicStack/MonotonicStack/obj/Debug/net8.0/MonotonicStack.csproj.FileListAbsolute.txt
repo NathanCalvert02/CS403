@@ -1,0 +1,15 @@
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\MonotonicStack\MonotonicStack\MonotonicStack\bin\Debug\net8.0\MonotonicStack.exe
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\MonotonicStack\MonotonicStack\MonotonicStack\bin\Debug\net8.0\MonotonicStack.deps.json
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\MonotonicStack\MonotonicStack\MonotonicStack\bin\Debug\net8.0\MonotonicStack.runtimeconfig.json
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\MonotonicStack\MonotonicStack\MonotonicStack\bin\Debug\net8.0\MonotonicStack.dll
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\MonotonicStack\MonotonicStack\MonotonicStack\bin\Debug\net8.0\MonotonicStack.pdb
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\MonotonicStack\MonotonicStack\MonotonicStack\obj\Debug\net8.0\MonotonicStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\MonotonicStack\MonotonicStack\MonotonicStack\obj\Debug\net8.0\MonotonicStack.AssemblyInfoInputs.cache
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\MonotonicStack\MonotonicStack\MonotonicStack\obj\Debug\net8.0\MonotonicStack.AssemblyInfo.cs
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\MonotonicStack\MonotonicStack\MonotonicStack\obj\Debug\net8.0\MonotonicStack.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\MonotonicStack\MonotonicStack\MonotonicStack\obj\Debug\net8.0\MonotonicStack.sourcelink.json
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\MonotonicStack\MonotonicStack\MonotonicStack\obj\Debug\net8.0\MonotonicStack.dll
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\MonotonicStack\MonotonicStack\MonotonicStack\obj\Debug\net8.0\refint\MonotonicStack.dll
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\MonotonicStack\MonotonicStack\MonotonicStack\obj\Debug\net8.0\MonotonicStack.pdb
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\MonotonicStack\MonotonicStack\MonotonicStack\obj\Debug\net8.0\MonotonicStack.genruntimeconfig.cache
+C:\Users\Nathan\Desktop\CS403\Leet Code Patterns\MonotonicStack\MonotonicStack\MonotonicStack\obj\Debug\net8.0\ref\MonotonicStack.dll
